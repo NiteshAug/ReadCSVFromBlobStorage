@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ReadCSVPySparkIntoDataframe
 read the CSV file in pyspark into Dataframe from azure blob storage
 
